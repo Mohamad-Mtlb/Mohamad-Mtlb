@@ -1,0 +1,191 @@
+[
+    {
+        "alias": "btc",
+        "title": "Bitcoin",
+        "faTitle": "بیتکوین",
+        "currentPriceIRR": "10615283280",
+        "currentPriceUSDT": "36612",
+        "officialHexColor": "#f69c3d",
+        "status": 1
+    },
+    {
+        "alias": "eth",
+        "title": "Ethereum",
+        "faTitle": "اتریوم",
+        "currentPriceIRR": "708868507",
+        "currentPriceUSDT": "2444.88",
+        "officialHexColor": "#497493",
+        "status": 1
+    },
+    {
+        "alias": "ltc",
+        "title": "Litecoin",
+        "faTitle": "لایت کوین",
+        "currentPriceIRR": "31446892",
+        "currentPriceUSDT": "108.46",
+        "officialHexColor": "#949494",
+        "status": 1
+    },
+    {
+        "alias": "bch",
+        "title": "Bitcoin Cash",
+        "faTitle": "بیتکوین کش",
+        "currentPriceIRR": "83731773",
+        "currentPriceUSDT": "288.79",
+        "officialHexColor": "#ee8c28",
+        "status": 1
+    },
+    {
+        "alias": "etc",
+        "title": "Ethereum Classic",
+        "faTitle": "اتریوم کلاسیک",
+        "currentPriceIRR": "6993353",
+        "currentPriceUSDT": "24.12",
+        "officialHexColor": "#009f42",
+        "status": 1
+    },
+    {
+        "alias": "dash",
+        "title": "Dash",
+        "faTitle": "دش",
+        "currentPriceIRR": "26570102",
+        "currentPriceUSDT": "91.64",
+        "officialHexColor": "#1376b5",
+        "status": 1
+    },
+    {
+        "alias": "trx",
+        "title": "Tron",
+        "faTitle": "ترون",
+        "currentPriceIRR": "16301",
+        "currentPriceUSDT": "0.056222",
+        "officialHexColor": "#ff060a",
+        "status": 1
+    },
+    {
+        "alias": "usdt",
+        "title": "Tether",
+        "faTitle": "تتر",
+        "currentPriceIRR": "289940",
+        "currentPriceUSDT": "1",
+        "officialHexColor": "#2ea07b",
+        "status": 1
+    },
+    {
+        "alias": "zec",
+        "title": "ZCash",
+        "faTitle": "ذی کش",
+        "currentPriceIRR": "25494424",
+        "currentPriceUSDT": "87.93",
+        "officialHexColor": "#f4b728",
+        "status": 1
+    },
+    {
+        "alias": "doge",
+        "title": "DogeCoin",
+        "faTitle": "دوج کوین",
+        "currentPriceIRR": "41026",
+        "currentPriceUSDT": "0.141497",
+        "officialHexColor": "#cbaf59",
+        "status": 1
+    },
+    {
+        "alias": "ppc",
+        "title": "Peercoin",
+        "faTitle": "پیر کوین",
+        "currentPriceIRR": "160260",
+        "currentPriceUSDT": "0.552734",
+        "officialHexColor": "#3cb054",
+        "status": 1
+    },
+    {
+        "alias": "xlm",
+        "title": "Stellar",
+        "faTitle": "استلار",
+        "currentPriceIRR": "56893",
+        "currentPriceUSDT": "0.196222",
+        "officialHexColor": "#4B4B4B",
+        "status": 1
+    },
+    {
+        "alias": "xrp",
+        "title": "Ripple",
+        "faTitle": "ریپل",
+        "currentPriceIRR": "176731",
+        "currentPriceUSDT": "0.609545",
+        "officialHexColor": "#23292f",
+        "status": 0
+    },
+    {
+        "alias": "ada",
+        "title": "Cardano",
+        "faTitle": "کاردانو",
+        "currentPriceIRR": "307336",
+        "currentPriceUSDT": "1.06",
+        "officialHexColor": "#2a71d0",
+        "status": 0
+    },
+    {
+        "alias": "bnb",
+        "title": "BinanceCoin",
+        "faTitle": "بایننس کوین",
+        "currentPriceIRR": "107541645",
+        "currentPriceUSDT": "370.91",
+        "officialHexColor": "#f3ba2f",
+        "status": 0
+    },
+    {
+        "alias": "uni",
+        "title": "Uniswap",
+        "faTitle": "یونی سوپ",
+        "currentPriceIRR": "3024074",
+        "currentPriceUSDT": "10.43",
+        "officialHexColor": "#FF007A",
+        "status": 0
+    },
+    {
+        "alias": "dot",
+        "title": "Polkadot",
+        "faTitle": "پولکادات",
+        "currentPriceIRR": "5172530",
+        "currentPriceUSDT": "17.84",
+        "officialHexColor": "#E6007A",
+        "status": 0
+    },
+    {
+        "alias": "aave",
+        "title": "Aave",
+        "faTitle": "اوو",
+        "currentPriceIRR": "42511003",
+        "currentPriceUSDT": "146.62",
+        "officialHexColor": "#2ebac6",
+        "status": 0
+    },
+    {
+        "alias": "link",
+        "title": "ChainLink",
+        "faTitle": "چین‌ لینک",
+        "currentPriceIRR": "4360698",
+        "currentPriceUSDT": "15.04",
+        "officialHexColor": "#375bd2",
+        "status": 0
+    },
+    {
+        "alias": "shib",
+        "title": "Shiba Inu",
+        "faTitle": "شیبااینو",
+        "currentPriceIRR": "6",
+        "currentPriceUSDT": "0.00002079",
+        "officialHexColor": "#f28b03",
+        "status": 0
+    },
+    {
+        "alias": "dai",
+        "title": "Dai",
+        "faTitle": "دای",
+        "currentPriceIRR": "289940",
+        "currentPriceUSDT": "1",
+        "officialHexColor": "#f2a300",
+        "status": 0
+    }
+]
